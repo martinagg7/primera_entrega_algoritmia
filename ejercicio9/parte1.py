@@ -1,3 +1,5 @@
+#MEDIA
+
 def funcion_decoradora(funcion_parametro):
     def funcion_interior(*args):
         #Acciones para decorar
