@@ -8,17 +8,6 @@ def  funcion_decoradora(funcion_parametro):
     return funcion_interior
 
 
-
-
-
-
-
-
-
-
-
-
-
 @funcion_decoradora
 def area_triangulo_rectangulo(lado1,lado2):
     print((lado1*lado2)/2)
