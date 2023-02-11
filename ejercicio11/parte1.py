@@ -7,8 +7,6 @@ def funcion_decoradora(funcion_parametro):
 
 
 
-
-
 @funcion_decoradora
 def horas(salario_fijado_mes,horas_trabajadas_extra):
     paga_hora=salario_fijado_mes/420
